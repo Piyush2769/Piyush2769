@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android at Zomato (https://zomato.com/), find me here: [PiyushZomato](https://github.com/PiyushZomato).
+- 🔭 I’m currently working on Android at [Zomato](https://zomato.com), find me here: [PiyushZomato](https://github.com/PiyushZomato).
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Android.
 - 🤔 I’m looking for help with Swift.

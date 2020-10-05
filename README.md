@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android at [Testbook.com](https://testbook.com/), find me here: [PiyushTestbook](https://github.com/PiyushTestbook).
-- 🌱 I’m currently learning Flutter and Swift.
+- 🔭 I’m currently working on Android at Zomato(https://zomato.com/), find me here: [PiyushZomato](https://github.com/PiyushZomato).
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Android.
 - 🤔 I’m looking for help with Swift.
 - 💬 Ask me about Android, Cricket and Stand up Comedy.

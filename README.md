@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Piyush2769&label=Views&color=blue&style=plastic" alt="Piyush2769" /> </p>
+
 - 🔭 I’m currently working on Android at [Zomato](https://zomato.com), find me here: [PiyushZomato](https://github.com/PiyushZomato).
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on Android.
